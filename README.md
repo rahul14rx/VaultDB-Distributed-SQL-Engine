@@ -11,7 +11,7 @@
 
 ## 🏗 System Architecture
 
-![VaultDB Architecture](architecture_diagram.png)
+![VaultDB Architecture](https://raw.githubusercontent.com/rahul14rx/VaultDB-Distributed-SQL-Engine/main/architecture_diagram.png)
 
 The system is composed of three decoupled layers:
 1.  **Transport Layer**: A multithreaded TCP server handling concurrent client connections.
